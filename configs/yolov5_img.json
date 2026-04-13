@@ -1,0 +1,7 @@
+{
+  "model_path": "weights/yolov5s.rknn",
+  "label_path": "weights/coco_80_labels_list.txt",
+  "image_path": "media/bus.jpg",
+  "conf_threshold": 0.45,
+  "nms_threshold": 0.45
+}

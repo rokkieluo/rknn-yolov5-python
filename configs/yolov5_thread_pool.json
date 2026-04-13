@@ -1,0 +1,13 @@
+{
+  "model_path": "weights/yolov5s.rknn",
+  "label_path": "weights/coco_80_labels_list.txt",
+  "video_path": "media/test_video.mp4",
+  "conf_threshold": 0.25,
+  "nms_threshold": 0.45,
+  "show_inference": true,
+  "record_result": false,
+  "thread_pool": {
+    "num_threads": 12,
+    "max_queue_size": 10
+  }
+}
